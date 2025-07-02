@@ -162,6 +162,7 @@
   <ItemGroup>
     <None Include="default.frag" />
     <None Include="default.vert" />
+    <None Include="glsl default.frag" />
     <None Include="light.frag" />
   </ItemGroup>
   <ItemGroup>

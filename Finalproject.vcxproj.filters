@@ -79,6 +79,7 @@
     <None Include="light.frag">
       <Filter>Resource Files\Shaders</Filter>
     </None>
+    <None Include="glsl default.frag" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\Downloads\pop_cat.jpg">
